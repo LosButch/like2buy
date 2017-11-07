@@ -1,0 +1,174 @@
+2017-07-26 11:39:54 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: SEO Friendly URLs
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'tool/log'))
+LINE: 636
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id')
+LINE: 43
+CODE: } elseif ($key == 'path') {
+LINE: 104
+----------------------------------------------------------------
+2017-07-26 23:04:41 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: OpenCart 2.3 Extension Compatibility Fix
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 195
+CODE: 'href'     => $this->url->link('extension/extension', 'token=' . $this->session->data['token'], true),
+LINE: 198
+
+FILE: admin/controller/extension/event.php
+CODE: public function index() {
+LINE: 19
+
+FILE: admin/controller/extension/extension.php
+CODE: public function index() {
+LINE: 19
+
+FILE: admin/controller/extension/installer.php
+CODE: public function index() {
+LINE: 17
+
+FILE: admin/controller/extension/modification.php
+CODE: public function index() {
+LINE: 24
+
+FILE: admin/controller/extension/openbay.php
+CODE: public function index() {
+LINE: 83
+
+FILE: admin/controller/extension/store.php
+CODE: public function index() {
+LINE: 17
+CODE: $extension = basename($file, '.php');
+LINE: 58
+CODE: $this->response->setOutput($this->load->view('extension/extension
+LINE: 81
+
+FILE: admin/controller/extension/extension/analytics.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 146
+
+FILE: admin/controller/extension/extension/captcha.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 125
+
+FILE: admin/controller/extension/extension/dashboard.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 126
+
+FILE: admin/controller/extension/extension/feed.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 121
+
+FILE: admin/controller/extension/extension/fraud.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 122
+
+FILE: admin/controller/extension/extension/module.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 191
+
+FILE: admin/controller/extension/extension/payment.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 134
+
+FILE: admin/controller/extension/extension/shipping.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 125
+
+FILE: admin/controller/extension/extension/theme.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 141
+
+FILE: admin/controller/extension/extension/total.php
+CODE: $this->response->setOutput($this->load->view('extension/extension/
+LINE: 123
+
+FILE: admin/model/user/user_group.php
+CODE: public function editUserGroup($user_group_id, $data) {
+LINE: 29
+CODE: $data[$type][] = $route;
+LINE: 91
+CODE: $output = $action->execute($this->registry, array(&$data));
+LINE: 27
+----------------------------------------------------------------
+MOD: SEO Friendly URLs
+CODE: if ($this->user->hasPermission('access', 'tool/log'))
+LINE: 657
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id')
+LINE: 43
+CODE: } elseif ($key == 'path') {
+LINE: 104
+----------------------------------------------------------------

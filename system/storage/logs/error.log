@@ -1,0 +1,272 @@
+2017-07-26 23:08:35 - GET https://us16.api.mailchimp.com/3.0/lists/3c33ee5d4e/merge-fields
+2017-07-26 23:08:35 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-26 23:08:35 - Data Received: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+    [list_id] => 3c33ee5d4e
+    [total_items] => 0
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/3c33ee5d4e/merge-fields
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/3c33ee5d4e/merge-fields
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/POST.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/3c33ee5d4e
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                )
+
+        )
+
+)
+
+2017-07-26 23:08:36 - PUT https://us16.api.mailchimp.com/3.0/lists/3c33ee5d4e/members/b642b4217b34b1e8d3bd915fc65c4452
+2017-07-26 23:08:36 - Data Sent: Array
+(
+    [email_type] => html
+    [status] => subscribed
+    [merge_fields] => Array
+        (
+            [MC_LANGUAGE] => en-gb
+        )
+
+    [language] => en-gb
+    [email_address] => test@test.com
+    [ip_opt] => 70.199.146.22
+)
+
+2017-07-26 23:08:36 - Data Received: Array
+(
+    [type] => http://developer.mailchimp.com/documentation/mailchimp/guides/error-glossary/
+    [title] => Invalid Resource
+    [status] => 400
+    [detail] => test@test.com looks fake or invalid, please enter a real email address.
+    [instance] => 
+)
+
+2017-07-26 23:08:36 - MAILCHIMP_INTEGRATION ERROR: test@test.com looks fake or invalid, please enter a real email address.
+2017-09-02 14:53:45 - PHP Notice:  Undefined variable: review_status in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 130
+2017-09-02 14:53:45 - PHP Notice:  Undefined variable: review_status in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 130
+2017-09-02 14:53:45 - PHP Notice:  Undefined variable: review_status in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 130
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: reviews in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 141
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: text_write in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 141
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: share in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 143
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: reviews in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 141
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: text_write in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 141
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: share in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 143
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: rating in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 134
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: reviews in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 141
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: text_write in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 141
+2017-09-02 14:53:58 - PHP Notice:  Undefined variable: share in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/search.tpl on line 143
+2017-09-13 21:16:04 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:16:04 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:16:12 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:16:12 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:31 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:22:31 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:22:31 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:22:32 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:33 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:44 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:44 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:22:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:42 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:42 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:43 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:45 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:45 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:47 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:59 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:23:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:24:06 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:24:06 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:24:52 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:24:52 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:27:33 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:27:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:28:21 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:28:21 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:28:32 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:28:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:28:33 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:28:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:29:18 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:29:18 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:29:20 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:29:20 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:35:42 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:35:42 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:36:10 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:36:10 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:36:35 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:36:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:38:09 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:38:09 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:38:09 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:38:25 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:38:25 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:38:25 - PHP Notice:  Undefined variable: text_all in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 24
+2017-09-13 21:38:49 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:38:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:38:51 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:38:51 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:38:56 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:38:56 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:39:09 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:39:09 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 7
+2017-09-13 21:44:03 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:44:03 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:44:56 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:44:56 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:45:20 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:45:20 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:46:44 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:46:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:49:15 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:49:15 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:49:24 - PHP Notice:  Undefined variable: categories in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:49:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 59
+2017-09-13 21:57:43 - PHP Warning:  Missing argument 1 for Model::__construct(), called in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 58 and defined in /var/www/like2buy.dk/public_html/system/engine/model.php on line 5
+2017-09-13 21:57:43 - PHP Notice:  Undefined variable: registry in /var/www/like2buy.dk/public_html/system/engine/model.php on line 6
+2017-09-13 21:58:44 - PHP Warning:  Missing argument 1 for Model::__construct(), called in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_common_footer.php on line 58 and defined in /var/www/like2buy.dk/public_html/system/engine/model.php on line 5
+2017-09-13 21:58:44 - PHP Notice:  Undefined variable: registry in /var/www/like2buy.dk/public_html/system/engine/model.php on line 6
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 22
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 24
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 25
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 26
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 27
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 28
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 29
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 31
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 32
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 33
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 34
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 35
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 36
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 37
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 39
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 40
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 41
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 42
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 47
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 53
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 56
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 58
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 64
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 70
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 76
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 78
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 80
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 90
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 94
+2017-09-14 10:30:54 - PHP Notice:  Indirect modification of overloaded property ControllerModuleBannerCategory::$data has no effect in /var/www/like2buy.dk/public_html/admin/controller/module/bannercategory.php on line 96
+2017-10-09 19:14:40 - PHP Notice:  Undefined variable: body_class in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/header.tpl on line 40
+2017-10-16 17:44:37 - PHP Notice:  Undefined variable: count in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/product.tpl on line 244
+2017-10-16 17:44:54 - PHP Notice:  Undefined variable: count in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/product/product.tpl on line 244
+2017-10-16 21:16:03 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:03 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:03 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:03 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:07 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:07 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:07 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:16:07 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:01 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:01 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:01 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:01 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:20 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:20 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:20 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:19:20 - PHP Notice:  Undefined index: children in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 12
+2017-10-16 21:20:35 - PHP Notice:  Undefined variable: child in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 14
+2017-10-16 21:20:35 - PHP Notice:  Undefined variable: child in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 14
+2017-10-16 21:20:35 - PHP Notice:  Undefined variable: child in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 14
+2017-10-16 21:20:35 - PHP Notice:  Undefined variable: child in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 14
+2017-10-16 21:20:35 - PHP Notice:  Undefined variable: child in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 14
+2017-10-16 21:20:35 - PHP Notice:  Undefined variable: child in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_footer.tpl on line 14
+2017-10-31 18:01:33 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 214
+2017-10-31 18:01:33 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 220
+2017-10-31 18:03:25 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 212
+2017-10-31 18:03:25 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 218
+2017-10-31 18:06:05 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 212
+2017-10-31 18:06:05 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 218
+2017-10-31 18:07:28 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 212
+2017-10-31 18:08:13 - PHP Notice:  Undefined variable: country_info in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 212
+2017-10-31 18:28:47 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 270
+2017-10-31 18:28:47 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 271
+2017-10-31 18:28:47 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 275
+2017-10-31 18:28:47 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 297
+2017-10-31 18:28:47 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 321
+2017-10-31 18:28:47 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 322
+2017-10-31 18:29:47 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 273
+2017-10-31 18:29:47 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 295
+2017-10-31 18:29:47 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 319
+2017-10-31 18:29:47 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 320
+2017-10-31 18:30:15 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 295
+2017-10-31 18:30:15 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 319
+2017-10-31 18:30:15 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 320
+2017-10-31 18:30:51 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 312
+2017-10-31 18:30:51 - PHP Notice:  Undefined index: zone_id in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 313
+2017-10-31 18:30:51 - PHP Notice:  Undefined variable: zone_info in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 327
+2017-10-31 18:31:22 - PHP Notice:  Undefined variable: zone_info in /var/www/like2buy.dk/public_html/vqmod/vqcache/vq2-catalog_controller_checkout_guest.php on line 312
+2017-10-31 18:32:43 - PHP Notice:  Undefined variable: entry_zone in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/checkout/guest_shipping.tpl on line 45
+2017-10-31 18:32:51 - PHP Notice:  Undefined variable: entry_zone in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/checkout/guest_shipping.tpl on line 45
+2017-10-31 18:33:29 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 159
+2017-10-31 18:55:18 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 134
+2017-10-31 18:55:18 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 140
+2017-10-31 18:55:45 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 134
+2017-10-31 18:55:45 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 140
+2017-10-31 18:56:57 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 134
+2017-10-31 18:56:57 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 140
+2017-10-31 19:25:07 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 134
+2017-10-31 19:25:07 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 140
+2017-10-31 19:30:58 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 134
+2017-10-31 19:30:58 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 140
+2017-10-31 19:34:36 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 134
+2017-10-31 19:34:36 - PHP Notice:  Undefined index: country_id in /var/www/like2buy.dk/public_html/catalog/controller/checkout/guest_shipping.php on line 140
+2017-11-02 17:55:11 - PHP Notice:  Undefined index: fax in /var/www/like2buy.dk/public_html/catalog/controller/checkout/confirm.php on line 137
+2017-11-02 17:58:20 - PHP Notice:  Undefined index: fax in /var/www/like2buy.dk/public_html/catalog/controller/checkout/confirm.php on line 137

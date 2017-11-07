@@ -1,0 +1,3046 @@
+2017-04-12 17:42:55 - PHP Warning:  ftp_login() [<a href='http://php.net/manual/en/function.ftp-login'>function.ftp-login</a>]: Login incorrect. in /var/www/like2buy.dk/public_html/admin/controller/extension/installer.php on line 294
+2017-04-12 17:44:22 - PHP Notice:  Undefined variable: stripe_status in /var/www/like2buy.dk/public_html/admin/view/template/extension/payment/stripe.tpl on line 93
+2017-04-12 18:05:23 - PHP Notice:  Undefined variable: stripe_status in /var/www/like2buy.dk/public_html/admin/view/template/extension/payment/stripe.tpl on line 93
+2017-04-12 18:08:05 - PHP Notice:  Undefined variable: stripe_status in /var/www/like2buy.dk/public_html/admin/view/template/extension/payment/stripe.tpl on line 93
+2017-04-23 9:36:10 - PHP Notice:  Undefined variable: register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 24
+2017-04-23 9:36:10 - PHP Notice:  Undefined variable: text_register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 24
+2017-04-29 11:47:38 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/checkout/payment_method.tpl on line 4
+2017-06-15 12:51:50 - PHP Notice:  Undefined index: email in /var/www/like2buy.dk/public_html/catalog/model/module/newsletters.php on line 21
+2017-06-15 20:30:04 - PHP Notice:  Undefined index: email in /var/www/like2buy.dk/public_html/catalog/model/module/newsletters.php on line 21
+2017-06-29 19:29:24 - PHP Warning:  strtolower() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:29:24 - PHP Warning:  strtolower() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:29:24 - PHP Warning:  strtolower() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:29:24 - PHP Warning:  strtolower() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:29:24 - PHP Warning:  strtolower() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:29:24 - PHP Warning:  strtolower() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:30:51 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:30:51 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:30:51 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:30:51 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:30:51 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:30:51 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:32:41 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:32:41 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:32:41 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:32:41 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:32:41 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:32:41 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 7
+2017-06-29 19:33:12 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:12 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:12 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:12 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:12 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:12 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:52 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:52 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:52 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:52 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:52 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:33:52 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 8
+2017-06-29 19:41:00 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 9
+2017-06-29 19:41:00 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 9
+2017-06-29 19:41:00 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 9
+2017-06-29 19:41:00 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 9
+2017-06-29 19:41:00 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 9
+2017-06-29 19:41:00 - PHP Notice:  Array to string conversion in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 9
+2017-06-29 19:47:20 - PHP Notice:  Undefined variable: flag in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 6
+2017-06-29 19:47:20 - PHP Notice:  Undefined variable: flag in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 6
+2017-06-29 19:49:02 - PHP Notice:  Undefined variable: flag in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 6
+2017-06-29 19:49:02 - PHP Notice:  Undefined variable: flag in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 6
+2017-06-29 20:00:55 - PHP Warning:  strpos() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 12
+2017-06-29 20:00:55 - PHP Warning:  strpos() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 12
+2017-06-29 20:01:27 - PHP Notice:  Undefined variable: item in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 10
+2017-06-29 20:01:27 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 10
+2017-06-29 20:01:27 - PHP Notice:  Undefined variable: item in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 10
+2017-06-29 20:01:27 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 10
+2017-06-29 20:01:49 - PHP Warning:  strpos() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 12
+2017-06-29 20:01:49 - PHP Warning:  strpos() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 12
+2017-06-29 20:02:40 - PHP Warning:  strpos() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 12
+2017-06-29 20:02:40 - PHP Warning:  strpos() expects parameter 1 to be string, array given in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/information/information.tpl on line 12
+2017-07-03 15:46:00 - MAILCHIMP_INTEGRATION ERROR: Your request did not include an API key.
+2017-07-03 20:33:54 - MAILCHIMP_INTEGRATION ERROR: Your request did not include an API key.
+2017-07-03 20:37:54 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-03 20:37:54 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-03 20:37:54 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-03 20:37:54 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-03 20:37:54 - MAILCHIMP_INTEGRATION SYNC SUCCESS: Completed!  4 customer(s) sent to MailChimp  Note: Customers are processed by MailChimp as part of a batch request, and added or updated accordingly. You can check the status of the batch request here:  https://us16.api.mailchimp.com/3.0/batches/b2a35e2e03?apikey=e28709c3db513572423bc956f087c5c0-us16
+2017-07-04 9:37:25 - MAILCHIMP_INTEGRATION CUSTOMER CREATED:   (kontakt@like2buy.dk)
+2017-07-04 9:37:26 - MAILCHIMP_INTEGRATION SYNC SUCCESS: Completed!  1 customer(s) created in OpenCart 1 customer(s) sent to MailChimp  Note: Customers are processed by MailChimp as part of a batch request, and added or updated accordingly. You can check the status of the batch request here:  https://us16.api.mailchimp.com/3.0/batches/6280cff7df?apikey=92854c76399ae372dd4c0c91ff2ff1d3-us16
+2017-07-04 9:37:34 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: subscribe alexlangkilde@gmail.com (List ID 6b4585e6aa)
+2017-07-04 9:40:54 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: unsubscribe alexlangkilde@gmail.com (List ID 6b4585e6aa)
+2017-07-05 23:39:57 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: subscribe alexlangkilde@gmail.com (List ID 6b4585e6aa)
+2017-07-05 23:40:21 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: unsubscribe alexlangkilde@gmail.com (List ID 6b4585e6aa)
+2017-07-06 0:07:25 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-06 0:07:25 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:07:25 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage1.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 10
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:25 - GET https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+2017-07-06 0:07:25 - Data Sent: Array
+(
+)
+
+2017-07-06 0:07:25 - Data Received: Array
+(
+    [webhooks] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c3a48cc7e3
+                    [url] => https://like2buy.dk/index.php?route=module/mailchimp_integration/webhook&key=c50be82f2b0ffdad1a6d8efbc8d277f2
+                    [events] => Array
+                        (
+                            [subscribe] => 1
+                            [unsubscribe] => 1
+                            [profile] => 
+                            [cleaned] => 
+                            [upemail] => 
+                            [campaign] => 
+                        )
+
+                    [sources] => Array
+                        (
+                            [user] => 1
+                            [admin] => 1
+                            [api] => 1
+                        )
+
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/c3a48cc7e3
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/c3a48cc7e3
+                                    [method] => DELETE
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/c3a48cc7e3
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/PATCH.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [list_id] => 6b4585e6aa
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:25 - DELETE https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/c3a48cc7e3
+2017-07-06 0:07:25 - Data Sent: Array
+(
+)
+
+2017-07-06 0:07:25 - Data Received: 
+2017-07-06 0:07:26 - POST https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+2017-07-06 0:07:26 - Data Sent: Array
+(
+    [url] => https://like2buy.dk/index.php?route=module/mailchimp_integration/webhook&key=c50be82f2b0ffdad1a6d8efbc8d277f2
+    [events] => Array
+        (
+            [subscribe] => 1
+            [unsubscribe] => 1
+            [profile] => 
+            [upemail] => 
+            [cleaned] => 
+            [campaign] => 
+        )
+
+    [sources] => Array
+        (
+            [user] => 1
+            [admin] => 1
+            [api] => 1
+        )
+
+)
+
+2017-07-06 0:07:26 - Data Received: Array
+(
+    [id] => a5cac0c9b8
+    [url] => https://like2buy.dk/index.php?route=module/mailchimp_integration/webhook&key=c50be82f2b0ffdad1a6d8efbc8d277f2
+    [events] => Array
+        (
+            [subscribe] => 1
+            [unsubscribe] => 1
+            [profile] => 
+            [cleaned] => 
+            [upemail] => 
+            [campaign] => 
+        )
+
+    [sources] => Array
+        (
+            [user] => 1
+            [admin] => 1
+            [api] => 1
+        )
+
+    [list_id] => 6b4585e6aa
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => delete
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+                    [method] => DELETE
+                )
+
+            [3] => Array
+                (
+                    [rel] => update
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+                    [method] => PATCH
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/PATCH.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:34 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-06 0:07:34 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:07:34 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage2.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 10
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:35 - GET https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+2017-07-06 0:07:35 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:07:35 - Data Received: Array
+(
+    [merge_fields] => Array
+        (
+            [0] => Array
+                (
+                    [merge_id] => 3
+                    [tag] => BIRTHDAY
+                    [name] => Birthday
+                    [type] => birthday
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 4
+                    [options] => Array
+                        (
+                            [date_format] => MM/DD
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [merge_id] => 1
+                    [tag] => FNAME
+                    [name] => First Name
+                    [type] => text
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 2
+                    [options] => Array
+                        (
+                            [size] => 25
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [merge_id] => 2
+                    [tag] => LNAME
+                    [name] => Last Name
+                    [type] => text
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 3
+                    [options] => Array
+                        (
+                            [size] => 25
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [list_id] => 6b4585e6aa
+    [total_items] => 3
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/POST.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:35 - POST https://us16.api.mailchimp.com/3.0/batches
+2017-07-06 0:07:35 - Data Sent: Array
+(
+    [operations] => Array
+        (
+        )
+
+)
+
+2017-07-06 0:07:35 - Data Received: Array
+(
+    [id] => 2f9edc4381
+    [status] => pending
+    [total_operations] => 0
+    [finished_operations] => 0
+    [errored_operations] => 0
+    [submitted_at] => 2017-07-05T22:07:35+00:00
+    [completed_at] => 
+    [response_body_url] => 
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/batches
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Batches/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Batches.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/batches/2f9edc4381
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Batches/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => delete
+                    [href] => https://us16.api.mailchimp.com/3.0/batches/2f9edc4381
+                    [method] => DELETE
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:35 - MAILCHIMP_INTEGRATION SYNC SUCCESS: Completed!  0 customer(s) sent to MailChimp  Note: Customers are processed by MailChimp as part of a batch request, and added or updated accordingly. You can check the status of the batch request here:  https://us16.api.mailchimp.com/3.0/batches/2f9edc4381?apikey=92854c76399ae372dd4c0c91ff2ff1d3-us16
+2017-07-06 0:07:55 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-06 0:07:55 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:07:55 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 10
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:55 - GET https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+2017-07-06 0:07:55 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:07:55 - Data Received: Array
+(
+    [merge_fields] => Array
+        (
+            [0] => Array
+                (
+                    [merge_id] => 3
+                    [tag] => BIRTHDAY
+                    [name] => Birthday
+                    [type] => birthday
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 4
+                    [options] => Array
+                        (
+                            [date_format] => MM/DD
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [merge_id] => 1
+                    [tag] => FNAME
+                    [name] => First Name
+                    [type] => text
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 2
+                    [options] => Array
+                        (
+                            [size] => 25
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [merge_id] => 2
+                    [tag] => LNAME
+                    [name] => Last Name
+                    [type] => text
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 3
+                    [options] => Array
+                        (
+                            [size] => 25
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [list_id] => 6b4585e6aa
+    [total_items] => 3
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/POST.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:56 - POST https://us16.api.mailchimp.com/3.0/batches
+2017-07-06 0:07:56 - Data Sent: Array
+(
+    [operations] => Array
+        (
+        )
+
+)
+
+2017-07-06 0:07:56 - Data Received: Array
+(
+    [id] => 18dcdf571d
+    [status] => pending
+    [total_operations] => 0
+    [finished_operations] => 0
+    [errored_operations] => 0
+    [submitted_at] => 2017-07-05T22:07:56+00:00
+    [completed_at] => 
+    [response_body_url] => 
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/batches
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Batches/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Batches.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/batches/18dcdf571d
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Batches/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => delete
+                    [href] => https://us16.api.mailchimp.com/3.0/batches/18dcdf571d
+                    [method] => DELETE
+                )
+
+        )
+
+)
+
+2017-07-06 0:07:56 - MAILCHIMP_INTEGRATION SYNC SUCCESS: Completed!  0 customer(s) sent to MailChimp  Note: Customers are processed by MailChimp as part of a batch request, and added or updated accordingly. You can check the status of the batch request here:  https://us16.api.mailchimp.com/3.0/batches/18dcdf571d?apikey=92854c76399ae372dd4c0c91ff2ff1d3-us16
+2017-07-06 0:08:05 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-06 0:08:05 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:08:05 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage1.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 10
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:08:05 - GET https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+2017-07-06 0:08:05 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 0:08:05 - Data Received: Array
+(
+    [merge_fields] => Array
+        (
+            [0] => Array
+                (
+                    [merge_id] => 3
+                    [tag] => BIRTHDAY
+                    [name] => Birthday
+                    [type] => birthday
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 4
+                    [options] => Array
+                        (
+                            [date_format] => MM/DD
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/3
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [merge_id] => 1
+                    [tag] => FNAME
+                    [name] => First Name
+                    [type] => text
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 2
+                    [options] => Array
+                        (
+                            [size] => 25
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/1
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [merge_id] => 2
+                    [tag] => LNAME
+                    [name] => Last Name
+                    [type] => text
+                    [required] => 
+                    [default_value] => 
+                    [public] => 1
+                    [display_order] => 3
+                    [options] => Array
+                        (
+                            [size] => 25
+                        )
+
+                    [help_text] => 
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields/2
+                                    [method] => DELETE
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [list_id] => 6b4585e6aa
+    [total_items] => 3
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/POST.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                )
+
+        )
+
+)
+
+2017-07-06 0:08:06 - POST https://us16.api.mailchimp.com/3.0/batches
+2017-07-06 0:08:06 - Data Sent: Array
+(
+    [operations] => Array
+        (
+            [0] => Array
+                (
+                    [method] => PUT
+                    [path] => lists/6b4585e6aa/members/b9c608fc5760f5f60328badb205c3bad
+                    [body] => {"email_address":"elarsson@get2net.dk","status":"subscribed","merge_fields":{"FNAME":"Erik","LNAME":"Larsson"}}
+                )
+
+            [1] => Array
+                (
+                    [method] => PUT
+                    [path] => lists/6b4585e6aa/members/b8413f035435d937d8952937fa7e4496
+                    [body] => {"email_address":"h.erling@jensen.mail.dk","status":"subscribed","merge_fields":{"FNAME":"Henrik","LNAME":"Jensen"}}
+                )
+
+            [2] => Array
+                (
+                    [method] => PUT
+                    [path] => lists/6b4585e6aa/members/56c2aa9a7506026110247a22d32f2470
+                    [body] => {"email_address":"bendebernberg@live.dk","status":"subscribed","merge_fields":{"FNAME":"Bende","LNAME":"Bernberg"}}
+                )
+
+        )
+
+)
+
+2017-07-06 0:08:06 - Data Received: Array
+(
+    [id] => 2a27a8d274
+    [status] => pending
+    [total_operations] => 0
+    [finished_operations] => 0
+    [errored_operations] => 0
+    [submitted_at] => 2017-07-05T22:08:06+00:00
+    [completed_at] => 
+    [response_body_url] => 
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/batches
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Batches/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Batches.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/batches/2a27a8d274
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Batches/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => delete
+                    [href] => https://us16.api.mailchimp.com/3.0/batches/2a27a8d274
+                    [method] => DELETE
+                )
+
+        )
+
+)
+
+2017-07-06 0:08:06 - MAILCHIMP_INTEGRATION SYNC SUCCESS: Completed!  3 customer(s) sent to MailChimp  Note: Customers are processed by MailChimp as part of a batch request, and added or updated accordingly. You can check the status of the batch request here:  https://us16.api.mailchimp.com/3.0/batches/2a27a8d274?apikey=92854c76399ae372dd4c0c91ff2ff1d3-us16
+2017-07-06 0:08:13 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: subscribe h.erling@jensen.mail.dk (List ID 6b4585e6aa)
+2017-07-06 0:08:13 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: subscribe elarsson@get2net.dk (List ID 6b4585e6aa)
+2017-07-06 0:08:13 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: subscribe bendebernberg@live.dk (List ID 6b4585e6aa)
+2017-07-06 0:08:37 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: unsubscribe bendebernberg@live.dk (List ID 6b4585e6aa)
+2017-07-06 0:08:37 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: unsubscribe h.erling@jensen.mail.dk (List ID 6b4585e6aa)
+2017-07-06 0:08:37 - MAILCHIMP_INTEGRATION WEBHOOK SUCCESS: unsubscribe elarsson@get2net.dk (List ID 6b4585e6aa)
+2017-07-06 11:26:24 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-06 11:26:24 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 11:26:24 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 7
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 11:26:24 - GET https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+2017-07-06 11:26:24 - Data Sent: Array
+(
+)
+
+2017-07-06 11:26:24 - Data Received: Array
+(
+    [webhooks] => Array
+        (
+            [0] => Array
+                (
+                    [id] => a5cac0c9b8
+                    [url] => https://like2buy.dk/index.php?route=module/mailchimp_integration/webhook&key=c50be82f2b0ffdad1a6d8efbc8d277f2
+                    [events] => Array
+                        (
+                            [subscribe] => 1
+                            [unsubscribe] => 1
+                            [profile] => 
+                            [cleaned] => 
+                            [upemail] => 
+                            [campaign] => 
+                        )
+
+                    [sources] => Array
+                        (
+                            [user] => 1
+                            [admin] => 1
+                            [api] => 1
+                        )
+
+                    [list_id] => 6b4585e6aa
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+                                    [method] => DELETE
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/PATCH.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [list_id] => 6b4585e6aa
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/POST.json
+                )
+
+        )
+
+)
+
+2017-07-06 11:26:25 - DELETE https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/a5cac0c9b8
+2017-07-06 11:26:25 - Data Sent: Array
+(
+)
+
+2017-07-06 11:26:25 - Data Received: 
+2017-07-06 11:26:26 - POST https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+2017-07-06 11:26:26 - Data Sent: Array
+(
+    [url] => https://like2buy.dk/index.php?route=module/mailchimp_integration/webhook&key=c50be82f2b0ffdad1a6d8efbc8d277f2
+    [events] => Array
+        (
+            [subscribe] => 1
+            [unsubscribe] => 1
+            [profile] => 
+            [upemail] => 
+            [cleaned] => 
+            [campaign] => 
+        )
+
+    [sources] => Array
+        (
+            [user] => 1
+            [admin] => 1
+            [api] => 1
+        )
+
+)
+
+2017-07-06 11:26:26 - Data Received: Array
+(
+    [id] => e3773cb2aa
+    [url] => https://like2buy.dk/index.php?route=module/mailchimp_integration/webhook&key=c50be82f2b0ffdad1a6d8efbc8d277f2
+    [events] => Array
+        (
+            [subscribe] => 1
+            [unsubscribe] => 1
+            [profile] => 
+            [cleaned] => 
+            [upemail] => 
+            [campaign] => 
+        )
+
+    [sources] => Array
+        (
+            [user] => 1
+            [admin] => 1
+            [api] => 1
+        )
+
+    [list_id] => 6b4585e6aa
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/e3773cb2aa
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => delete
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/e3773cb2aa
+                    [method] => DELETE
+                )
+
+            [3] => Array
+                (
+                    [rel] => update
+                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks/e3773cb2aa
+                    [method] => PATCH
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/PATCH.json
+                )
+
+        )
+
+)
+
+2017-07-06 11:31:01 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-06 11:31:01 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-06 11:31:01 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 7
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-07 10:48:07 - GET https://us16.api.mailchimp.com/3.0/lists
+2017-07-07 10:48:07 - Data Sent: Array
+(
+    [count] => 99
+)
+
+2017-07-07 10:48:07 - Data Received: Array
+(
+    [lists] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6b4585e6aa
+                    [web_id] => 21331
+                    [name] => Like2Buy.dk
+                    [contact] => Array
+                        (
+                            [company] => Like2Buy.dk
+                            [address1] => Vendersvej 17
+                            [address2] => 
+                            [city] => Odense C
+                            [state] => 
+                            [zip] => 5000
+                            [country] => DK
+                            [phone] => 
+                        )
+
+                    [permission_reminder] => You are receiving this email because you opted in via our website.
+                    [use_archive_bar] => 1
+                    [campaign_defaults] => Array
+                        (
+                            [from_name] => Simon
+                            [from_email] => kontakt@like2buy.dk
+                            [subject] => 
+                            [language] => en
+                        )
+
+                    [notify_on_subscribe] => 
+                    [notify_on_unsubscribe] => 
+                    [date_created] => 2017-07-03T20:01:27+00:00
+                    [list_rating] => 0
+                    [email_type_option] => 
+                    [subscribe_url_short] => http://eepurl.com/cUUjN9
+                    [subscribe_url_long] => http://like2buy.us16.list-manage.com/subscribe?u=4983774b108ab6c89a7a7ca72&id=6b4585e6aa
+                    [beamer_address] => us16-c05e23d82a-9ffdf0d2b4@inbound.mailchimp.com
+                    [visibility] => pub
+                    [modules] => Array
+                        (
+                        )
+
+                    [stats] => Array
+                        (
+                            [member_count] => 1
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 2
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [campaign_last_sent] => 
+                            [merge_field_count] => 3
+                            [avg_sub_rate] => 6
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                            [last_sub_date] => 2017-07-03T20:01:27+00:00
+                            [last_unsub_date] => 
+                        )
+
+                    [_links] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [rel] => self
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                )
+
+                            [1] => Array
+                                (
+                                    [rel] => parent
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                                )
+
+                            [2] => Array
+                                (
+                                    [rel] => update
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => PATCH
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/PATCH.json
+                                )
+
+                            [3] => Array
+                                (
+                                    [rel] => batch-sub-unsub-members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => POST
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST-Response.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/BatchPOST.json
+                                )
+
+                            [4] => Array
+                                (
+                                    [rel] => delete
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa
+                                    [method] => DELETE
+                                )
+
+                            [5] => Array
+                                (
+                                    [rel] => abuse-reports
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/abuse-reports
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Abuse/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Abuse.json
+                                )
+
+                            [6] => Array
+                                (
+                                    [rel] => activity
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Activity/Response.json
+                                )
+
+                            [7] => Array
+                                (
+                                    [rel] => clients
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/clients
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Clients/Response.json
+                                )
+
+                            [8] => Array
+                                (
+                                    [rel] => growth-history
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/growth-history
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Growth/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Growth.json
+                                )
+
+                            [9] => Array
+                                (
+                                    [rel] => interest-categories
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/interest-categories
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/InterestCategories/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/InterestCategories.json
+                                )
+
+                            [10] => Array
+                                (
+                                    [rel] => members
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/members
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json
+                                )
+
+                            [11] => Array
+                                (
+                                    [rel] => merge-fields
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/merge-fields
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/MergeFields/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/MergeFields.json
+                                )
+
+                            [12] => Array
+                                (
+                                    [rel] => segments
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/segments
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Segments/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Segments.json
+                                )
+
+                            [13] => Array
+                                (
+                                    [rel] => webhooks
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/webhooks
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Webhooks/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Webhooks.json
+                                )
+
+                            [14] => Array
+                                (
+                                    [rel] => signup-forms
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/signup-forms
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/SignupForms/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/SignupForms.json
+                                )
+
+                            [15] => Array
+                                (
+                                    [rel] => locations
+                                    [href] => https://us16.api.mailchimp.com/3.0/lists/6b4585e6aa/locations
+                                    [method] => GET
+                                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Locations/CollectionResponse.json
+                                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Locations.json
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [total_items] => 1
+    [_links] => Array
+        (
+            [0] => Array
+                (
+                    [rel] => self
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/CollectionResponse.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json
+                )
+
+            [1] => Array
+                (
+                    [rel] => parent
+                    [href] => https://us16.api.mailchimp.com/3.0/
+                    [method] => GET
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Root/Response.json
+                )
+
+            [2] => Array
+                (
+                    [rel] => create
+                    [href] => https://us16.api.mailchimp.com/3.0/lists
+                    [method] => POST
+                    [targetSchema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/Response.json
+                    [schema] => https://us16.api.mailchimp.com/schema/3.0/Definitions/Lists/POST.json
+                )
+
+        )
+
+)
+
+2017-07-20 23:04:09 - PHP Notice:  Undefined variable: register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 46
+2017-07-20 23:04:11 - PHP Notice:  Undefined variable: register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 46
+2017-07-20 23:04:13 - PHP Notice:  Undefined variable: register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 46
+2017-07-20 23:04:30 - PHP Notice:  Undefined variable: register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 46
+2017-07-20 23:04:32 - PHP Notice:  Undefined variable: register in /var/www/like2buy.dk/public_html/catalog/view/theme/default/template/common/footer.tpl on line 46
+2017-07-26 13:14:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 13:20:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 13:21:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 13:22:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 13:26:26 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 20:42:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 20:46:39 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 670
+2017-07-26 20:53:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/like2buy.dk/public_html/system/library/mailchimp_integration.php on line 663

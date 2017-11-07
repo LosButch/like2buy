@@ -1,0 +1,78 @@
+
+<footer>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-5">
+		<img src="/image/catalog/Logo-Webshop.png" alt="Like 2 buy logo footer" id="logo-footer"/>
+		<p>
+			Like2buy er en webshop med Gadgets i højsædet. Vi leverer smartwatches, sportsure, action kameraer og mange andre ting, til priser som alle kan være med på. Så hvis du gerne vil afprøve fed elektronik, men ikke betale en bondegård, så er det på like2buy
+		</p>
+      </div>
+	  
+      <div class="col-sm-4">
+      <h1>KUNDEKLUBBEN</h1>
+      	<!-- Begin MailChimp Signup Form -->
+		<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+		<style type="text/css">
+			#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+			/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+			   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+		</style>
+		<div id="mc_embed_signup">
+		<form action="//like2buy.us16.list-manage.com/subscribe/post?u=4983774b108ab6c89a7a7ca72&amp;id=6b4585e6aa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+		    <div id="mc_embed_signup_scroll">
+			<p>Få besked når vi får nye varer eller når vi får
+				nogle vanvittige tilbud. Meld dig til nedenunder.</p>
+			<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Indtast e-mail" required>
+		    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4983774b108ab6c89a7a7ca72_6b4585e6aa" tabindex="-1" value=""></div>
+		    <input type="submit" value="Tilmeld" name="subscribe" id="mc-embedded-subscribe" class="button">
+		    </div>
+		</form>
+		</div>
+
+		<!--End mc_embed_signup-->
+      </div>
+	  
+      <div class="col-sm-2" id="footer-medlem">
+        <h1>MEDLEM</h1>
+		<p>Bliv medlem</p>
+		
+		<div id="register-button">
+			<a href="/index.php?route=account/login">Meld dig til her&raquo; &nbsp;&nbsp;&nbsp;&nbsp;<img src="/catalog/view/theme/default/image/register.png" id="register-image"/></a>
+		</div>
+
+      </div>
+    </div>
+  </div>
+  <div id="under-footer">
+		<div class="col-sm-8">
+			<ul>
+				<li><a href="<?php echo HTTP_SERVER . 'index.php?route=information/information&information_id=5'; ?>">HANDELSBETINGELSER</a></li>
+				<li><a href="<?php echo HTTP_SERVER . 'index.php?route=information/information&information_id=4'; ?>">REKLAMATION & GARANTI</a></li>
+				<!-- <li><a href="<?php echo HTTP_SERVER . 'index.php?route=information/information&information_id=6'; ?>">BRUGSBETINGELSER</a></li> -->
+				<li><a href="<?php echo HTTP_SERVER . 'index.php?route=information/information&information_id=3'; ?>">PRIVATLIVSPOLITIK</a></li>
+			</ul>
+			<p>Copyright &copy; 2017 Like2Buy</p>
+		</div>
+		<div class="col-sm-4">
+			
+		</div>
+  </div>
+</footer>
+
+
+</div>
+
+
+<script>
+	var btn = document.getElementById('login-btn');
+	btn.addEventListener('click', function() {
+	  document.location.href = '<?php echo $account; ?>';
+	});
+</script>
+
+</body>
+</html>

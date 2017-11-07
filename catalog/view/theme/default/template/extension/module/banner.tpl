@@ -1,0 +1,24 @@
+<div id="banner<?php echo $module; ?>" class="owl-carousel">
+  <?php foreach ($banners as $banner) { ?>
+  <div class="item">
+    <?php if ($banner['link']) { ?>
+    <a href="<?php echo $banner['link']; ?>"><img src="<?php echo $banner['image']; ?>" alt="<?php echo $banner['title']; ?>" class="img-responsive" /></a>
+    <?php } else { ?>
+    <img src="<?php echo $banner['image']; ?>" alt="<?php echo $banner['title']; ?>" class="img-responsive dick" />
+    <?php } ?>
+  </div>
+  <?php } ?>
+</div>
+<script type="text/javascript">
+$('#banner<?php echo $module; ?>').owlCarousel({
+	autoplay: false,
+  autoplaySpeed: 10000, 
+  smartSpeed:10000,
+  autoplayTimeout: 10000,
+	singleItem: true,
+	navigation: false,
+	pagination: false,
+	transitionStyle: 'fade',
+	autoHeight:true
+});
+</script>
