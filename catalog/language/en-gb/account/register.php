@@ -10,7 +10,7 @@ $_['text_your_details']    = 'Personlige Oplysninger';
 $_['text_your_address']    = 'Adresse';
 $_['text_newsletter']      = 'Nyhedsbrev';
 $_['text_your_password']   = 'Adgangskode';
-$_['text_agree']           = 'Jeg har l&aelig;st og accepteret <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree']           = 'Jeg har læst og accepteret Like2buy’s <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_customer_group'] = 'Kunde Gruppe';
