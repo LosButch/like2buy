@@ -18,7 +18,7 @@ $_['text_login']               = 'V&aelig;r venlig at <a href="%s">log ind</a> e
 $_['text_no_reviews']          = 'Der er ikke nogen anmeldelser p&aring; denne vare.';
 $_['text_note']                = '<span class="text-danger">Bem&aelig;rk:</span> HTML er ikke oversat!';
 $_['text_success']             = 'Tak for din anmeldelse. Det er blevet forelagt webmaster for godkendelse.';
-$_['text_related']             = 'Relaterede produkter';
+$_['text_related']             = 'Andre har ogs&aring; kigget p&aring;';
 $_['text_tags']                = 'Tags:';
 $_['text_error']               = 'Produkt ikke fundet!';
 $_['text_payment_recurring']   = 'Betalingsprofil';

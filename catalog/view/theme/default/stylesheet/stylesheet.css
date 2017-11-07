@@ -1248,6 +1248,9 @@ h2.price {
 	font-size: 35pt;
 	margin-top: -10px;
 }
+#product h3, #product label {
+	color:black !important;
+}
 #top-content-block{
 	-moz-border-radius: 15px;
     -webkit-border-radius: 15px;
