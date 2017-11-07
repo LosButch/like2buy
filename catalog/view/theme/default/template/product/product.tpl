@@ -6,7 +6,7 @@
 </ul>
 <div id="main-container">
 	
-<div class="container">
+<div id="product" class="container">
   
   <div class="row"><?php echo $column_left; ?>
     <?php if ($column_left && $column_right) { ?>
@@ -207,7 +207,7 @@
 					<input type="hidden" name="product_id" value="<?php echo $product_id; ?>" />
 				</div>
 				<div class="form-group">					
-					<div class="cart-add-button" onclick="cart.add('<?php echo $product_id; ?>', document.getElementById('input-quantity').value);">
+					<div id="button-cart" class="cart-add-button">
 						<div class="yellow-button"></div>
 					</div>
 				</div>
@@ -477,9 +477,8 @@ $('#button-cart').on('click', function() {
 
 				$('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
 
-				$('html, body').animate({ scrollTop: 0 }, 'slow');
-
 				$('#cart > ul').load('index.php?route=common/cart/info ul li');
+				$('#cart').addClass('open');
 			}
 		},
         error: function(xhr, ajaxOptions, thrownError) {
