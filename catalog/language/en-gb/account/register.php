@@ -28,7 +28,7 @@ $_['entry_country']        = 'Land';
 $_['entry_zone']           = 'Region / Stat';
 $_['entry_newsletter']     = 'Tilmeld';
 $_['entry_password']       = 'Adgangskode';
-$_['entry_confirm']        = 'Bekr&aelig;ft Adgangskode';
+$_['entry_confirm']        = 'Bekræft Adgangskode';
 
 // Error
 $_['error_exists']         = 'Advarsel: E-mail Adresse er allerede registreret!';
