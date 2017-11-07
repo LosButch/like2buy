@@ -95,8 +95,6 @@
           </div>
         </form>
         <?php if ($modules) { ?>
-        <h2 class="featured"><?php echo $text_next; ?></h2>
-        <p><?php echo $text_next_choice; ?></p>
         <div class="panel-group" id="accordion">
           <?php foreach ($modules as $module) { ?>
           <?php echo $module; ?>
