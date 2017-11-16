@@ -49,15 +49,14 @@
 <!-- PRELOAD IMAGES -->
 
 <div id="top-top-header" class="col-sm-12">
-	<div class="col-sm-3 visible-xs navbar-header">
-	      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
+	<div class="col-sm-4 hidden-xs visible-xs">
+	      <button type="button" class="" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
 	</div>
-	<div class="col-sm-3" id="login-btn">
+	<div class="col-sm-4 hidden-xs" id="login-btn">
 		<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
 		<a href="<?php echo $login; ?>">Log Ind</a>
 	</div>
-	
-	<div class="col-sm-7 pull-right" id="top-top-cart">
+	<div class="col-sm-8 pull-right" id="top-top-cart">
 		<div class="col-sm-3">
 			<a href="tel:+4542834949" >
 				<div class="top-header-link" id="phone">
