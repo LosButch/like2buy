@@ -8,10 +8,6 @@ body {
 	background: #231f20;
 }
 
-body.product-page {
-	background-color: white;
-}
-
 img{
 	max-width: 100%;
 }
@@ -724,7 +720,7 @@ footer h1{
 .product-thumb {
 	border: 1px solid #ddd;
 	margin-bottom: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 40px;
 	font-family: "arial";
 }
 .product-thumb .image {
@@ -746,6 +742,7 @@ footer h1{
 .product-thumb .caption h4 a{
 	color: #000 !important;
 }
+
 .product-thumb .green-button{
 	background: url("/catalog/view/theme/default/image/btn_green.png") no-repeat;
 	width: 150px;
@@ -767,10 +764,10 @@ footer h1{
     font-family: tahoma;
 }
 @media (min-width: 767px) {
-.product-list .product-thumb .image {
-	float: left;
-	padding: 0 15px;
-}
+	.product-list .product-thumb .image {
+		float: left;
+		padding: 0 15px;
+	}
 }
 .product-thumb h4 {
 	font-weight: bold;
@@ -858,9 +855,6 @@ h2.price {
 	color: #999;
 	font-size: 12px;
 	display: block;
-}
-.product-thumb .button-group {
-	background-color: #fff;
 }
 .product-list .product-thumb .button-group {
 	border-left: 1px solid #ddd;
@@ -1257,6 +1251,11 @@ h2.price {
 #product h3, #product label {
 	color:black !important;
 }
+@media (max-width: 768px) {
+	#product .yellow-button {
+		margin: 0px auto;
+	}
+}
 #top-content-block{
 	-moz-border-radius: 15px;
     -webkit-border-radius: 15px;
@@ -1283,10 +1282,11 @@ h2.price {
 	color: #b1aa01;
 	font-size: 14px;
 	font-weight: bold;
-	padding-left: 20px;
-	background-image: url("/catalog/view/theme/default/image/flueben.png");
 	background-repeat: no-repeat;
 	background-position: left center;
+}
+#top-content-block .stock-status img{
+	padding: 0 5px 2px 0;
 }
 #top-content-block .delivery-time{
 	color: #999966;
