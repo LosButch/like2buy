@@ -59,7 +59,8 @@
 	CVR: 35016074<br />
 	Reg: 0828 Konto: 0003931323<br /><br />
 	<a href="mailto:kontakt@like2buy.dk">kontakt@like2buy.dk</a><br />
-	Tlf: 42 83 49 49<br />
+	<a href="tel:+4542834949">Tlf: 42 83 49 49</a><br />
+	&Aring;bningstider: man-fre: 12-14
       </div>
     </div>
   </div>
