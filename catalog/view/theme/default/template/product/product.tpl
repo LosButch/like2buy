@@ -53,7 +53,7 @@
             <li>
               <h2><?php echo $price; ?></h2>
 		<p class="delivery">Inkl. fri fragt</p>
-		<p class="stock-status"><?=$stock?></p>
+		<p class="stock-status"><img src="/catalog/view/theme/default/image/flueben.png"><?=$stock?></p>
             </li>
             <?php } else { ?>
             <li><span style="text-decoration: line-through;"><?php echo $price; ?></span></li>
@@ -270,7 +270,7 @@
             <div class="image"><a href="<?php echo $product['href']; ?>"><img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive" /></a></div>
             <div class="caption">
               <h4><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></h4>
-              <p><?php echo $product['description']; ?></p>
+              <p class="description"><?php echo $product['description']; ?></p>
               <?php if ($product['rating']) { ?>
               <div class="rating">
                 <?php for ($j = 1; $j <= 5; $j++) { ?>

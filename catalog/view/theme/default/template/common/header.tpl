@@ -49,6 +49,9 @@
 <!-- PRELOAD IMAGES -->
 
 <div id="top-top-header" class="col-sm-12">
+	<div class="col-sm-3 visible-xs navbar-header">
+	      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
+	</div>
 	<div class="col-sm-3" id="login-btn">
 		<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
 		<a href="<?php echo $login; ?>">Log Ind</a>
@@ -119,9 +122,6 @@
 <?php if ($categories) { ?>
 <div class="container" id="menu-nav">
   <nav id="menu" class="navbar">
-    <div class="navbar-header"><span id="category" class="visible-xs">Kategorier</span>
-      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
-    </div>
     <div id="menu-category">
       <ul class="nav navbar-nav dropdown-top-menu col-sm-9 collapse navbar-collapse">
       <li id="home-menu-link"><a href="/"><img src="/catalog/view/theme/default/image/home.png" /></a></li>
