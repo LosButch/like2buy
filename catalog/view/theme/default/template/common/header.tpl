@@ -49,37 +49,27 @@
 <!-- PRELOAD IMAGES -->
 
 <div id="top-top-header" class="navbar-header">
-	<button type="button" class="navbar-toggle burger-menu" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
-	<div class="col-sx-4">
-		<div id="login-btn" class="hidden-xs">
-			<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
-			<a href="<?php echo $login; ?>">Log Ind</a>
+	<div class="container">
+		<button type="button" class="navbar-toggle burger-menu" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
+		<div class="col-sx-4">
+			<div id="login-btn" class="hidden-xs top-header-link">
+				<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
+				<a href="<?php echo $login; ?>">Log Ind</a>
+			</div>
 		</div>
-	</div>
-	<div class="col-sx-8 pull-right" id="top-top-cart">
-		<div class="col-sm-3 hidden-xs">
-			<a href="tel:+4542834949" >
-				<div class="top-header-link" id="phone">
-					Tlf: 42 83 49 49
-				</div>
-			</a>
-        	</div>
-		<div class="col-sm-4">
-			<a href="mailto:kontakt@like2buy.dk" >
-				<div class="top-header-link" id="email">
-					kontakt@like2buy.dk
-				</div>
-			</a>
-        	</div>
-		<div class="col-sm-2">
-			<a href="/faq" >
-				<div class="top-header-link" id="hjaelp">
-					Hj&aelig;lp
-				</div>
-			</a>
-        	</div>
-		<div class="col-sm-3" id="indkobsvogn">
-			   <?php echo $cart; ?>
+		<div class="col-sx-8 pull-right" id="top-top-cart">
+			<div class="top-header-link indkoebsvogn">
+				   <?php echo $cart; ?>
+			</div>
+			<div class="hidden-xs top-header-link hjaelp">
+				<a href="/faq" >Hj&aelig;lp</a>
+			</div>
+			<div class="hidden-xs top-header-link email">
+				<a href="mailto:kontakt@like2buy.dk">kontakt@like2buy.dk</a>
+			</div>
+			<div class="hidden-xs top-header-link phone">
+				<a href="tel:+4542834949">Tlf: 42 83 49 49</a>
+			</div>
 		</div>
 	</div>
 </div>
