@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 /* default font size */
 .fa {
 	font-size: 24px;
+	color: #cccccc;
 }
 /* Override the bootstrap defaults */
 h1 {
@@ -174,8 +175,6 @@ div.required .control-label:before {
 	color: #fff !important;
 }
 /* cart */
-#cart {
-}
 #cart:hover{
 	cursor: pointer;
 }
@@ -214,7 +213,6 @@ div.required .control-label:before {
 	color: #f3c600 !important;
 }
 @media (max-width: 478px) {
-	
 	#cart .dropdown-menu {
 		width: 100%;
 	}
@@ -1351,7 +1349,6 @@ h2.price {
 }
 #login-btn {
 	float:left;
-	padding-left:80px;
 }
 #login-btn a{
 	color:#fff;
@@ -1550,7 +1547,7 @@ a:hover{
 	margin: 0;
 	height: 100%;
 	width: 50px;
-	border-right: 1px solid white;
+	border-right: 1px solid #aaaaaa;
 	border-radius: 0;
 }
 #grey-link{
@@ -1570,7 +1567,6 @@ a:hover{
 	float:left;
 }
 #top-top-cart{
-	padding-right: 95px;
 }
 .header-box{
 	margin-top: 10px;
@@ -1592,67 +1588,57 @@ a:hover{
 .header-box img{
 	float:left;
 }
-#top-top-cart .top-header-link {
+#top-top-cart .top-header-link a {
 	color: white;
 }
-#top-top-cart .top-header-link:hover{
+#top-top-cart .top-header-link:hover a {
 	color:#f2c531;
 }
-#phone {
+.top-header-link {
+	float:right;
+	padding: 10px;
+	margin-left: 20px;
+	padding-left: 30px;
+}
+.phone {
 	background: url('/catalog/view/theme/default/image/opkald.png') no-repeat;
 	background-size: 20px 20px;
 	background-position: left;
-	padding-left: 35px;
 }
-#phone:hover {
+.phone:hover {
 	background: url('/catalog/view/theme/default/image/opkald-hover.png') no-repeat;
 	background-size: 20px 20px;
 	background-position: left;
 }
-#email {
+.email {
 	background: url('/catalog/view/theme/default/image/mail.png') no-repeat;
 	background-size: 22px 18px;
-	padding-left: 35px;
 	background-position: left;
 }
-#email:hover {
+.email:hover {
 	background: url('/catalog/view/theme/default/image/mail-hover.png') no-repeat;
 	background-size: 22px 16px;
 	background-position: left;
 }
-@media (max-width: 768px) {
-	#email {
-		display: none;
-	}
-}
-#hjaelp{
+.hjaelp{
 	background: url('/catalog/view/theme/default/image/ring.png') no-repeat;
-	height: 27px;
-	padding-left: 35px;
-	padding-top: 3px;
-	margin-top: -3px;
+	background-size: 22px 22px;
+	background-position: left;
 }
-#hjaelp:hover{
+.hjaelp:hover{
 	background: url('/catalog/view/theme/default/image/ring_gul.png') no-repeat;
+	background-size: 22px 22px;
 	cursor: pointer;
+	background-position: left;
 }
-@media (max-width: 420px) {
-	#hjaelp {
-		display: none;
-	}
-}
-#cart .cart-inner {
+.indkoebsvogn {
 	background: url('/catalog/view/theme/default/image/kurv.png') no-repeat;
-	padding-left: 57px;
-	height: 27px;
-	background-position: 30px;
-	margin-top: -3px;
-	padding-top: 3px;
+	background-position: left;
 
 }
-#cart .cart-inner:hover{
+.indkoebsvogn: hover {
 	background: url('/catalog/view/theme/default/image/kurv_gul.png') no-repeat;
-	background-position: 30px;
+	background-position: left;
 	cursor: pointer;
 }
 #cart:hover #cart-text{
