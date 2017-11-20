@@ -785,6 +785,7 @@ footer h1{
 	}
 	#login-btn{
 		padding-left: 0px !important;
+		margin-left: 0px;
 	}
 }
 @media (max-width: 767px) {
@@ -1545,7 +1546,7 @@ a:hover{
 	float:left;
 	padding: 0;
 	margin: 0;
-	height: 100%;
+	height: 40px;
 	width: 50px;
 	border-right: 1px solid #aaaaaa;
 	border-radius: 0;
@@ -1557,12 +1558,6 @@ a:hover{
 	color: #f2c531 !important;
 }
 
-#cart-text{
-	color:#fff;
-}
-#cart-text:hover{
-	color:#f2c531;
-}
 .top-top-element{
 	float:left;
 }
@@ -1634,12 +1629,14 @@ a:hover{
 .indkoebsvogn {
 	background: url('/catalog/view/theme/default/image/kurv.png') no-repeat;
 	background-position: left;
+	color: white;
 
 }
-.indkoebsvogn: hover {
+.indkoebsvogn:hover {
 	background: url('/catalog/view/theme/default/image/kurv_gul.png') no-repeat;
 	background-position: left;
 	cursor: pointer;
+	color:#f2c531;
 }
 #cart:hover #cart-text{
 	color:#f2c531;
