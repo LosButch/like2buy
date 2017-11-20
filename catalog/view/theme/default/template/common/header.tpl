@@ -48,16 +48,16 @@
 <img src="/catalog/view/theme/default/image/ring_gul.png"    class="hide" alt="preloaded image" />
 <!-- PRELOAD IMAGES -->
 
-<div id="top-top-header" class="col-sm-12">
-	<div class="col-sm-4 hidden-xs visible-xs">
-	      <button type="button" class="" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
+<div id="top-top-header" class="navbar-header">
+	<button type="button" class="navbar-toggle burger-menu" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
+	<div class="col-sx-4">
+		<div id="login-btn" class="hidden-xs">
+			<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
+			<a href="<?php echo $login; ?>">Log Ind</a>
+		</div>
 	</div>
-	<div class="col-sm-4 hidden-xs" id="login-btn">
-		<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
-		<a href="<?php echo $login; ?>">Log Ind</a>
-	</div>
-	<div class="col-sm-8 pull-right" id="top-top-cart">
-		<div class="col-sm-3">
+	<div class="col-sx-8 pull-right" id="top-top-cart">
+		<div class="col-sm-3 hidden-xs">
 			<a href="tel:+4542834949" >
 				<div class="top-header-link" id="phone">
 					Tlf: 42 83 49 49
@@ -123,7 +123,6 @@
   <nav id="menu" class="navbar">
     <div id="menu-category">
       <ul class="nav navbar-nav dropdown-top-menu col-sm-9 collapse navbar-collapse">
-      <li id="home-menu-link"><a href="/"><img src="/catalog/view/theme/default/image/home.png" /></a></li>
         <?php foreach ($categories as $category) { ?>
         <?php if ($category['children']) { ?>
         
@@ -148,6 +147,15 @@
         <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>  
         <?php } ?>
         <?php } ?>
+	<li class="visible-xs">
+		<a href="<?php echo $register; ?>">Opret</a>
+	</li>
+	<li class="visible-xs">
+		<a href="<?php echo $login; ?>">Log Ind</a>
+	</li>
+	<li class="visible-xs">
+		<a href="/faq">Hjælp</a>
+	</li>
       </ul>
       <div class="col-sm-3 float-right">
           <?php echo $search; ?>

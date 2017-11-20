@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* default font size */
 .fa {
-	font-size: 14px;
+	font-size: 24px;
 }
 /* Override the bootstrap defaults */
 h1 {
@@ -1540,9 +1540,18 @@ a:hover{
 	background-color: #231f20;
 	position: fixed;
 	height: 40px;
-	padding-top: 9px;
 	z-index: 100;
 	max-width: 1366px;
+	width: 100%;
+}
+.burger-menu {
+	float:left;
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 50px;
+	border-right: 1px solid white;
+	border-radius: 0;
 }
 #grey-link{
 	color: #a8a8a8 !important;
@@ -1599,11 +1608,6 @@ a:hover{
 	background: url('/catalog/view/theme/default/image/opkald-hover.png') no-repeat;
 	background-size: 20px 20px;
 	background-position: left;
-}
-@media (max-width: 768px) {
-	#phone {
-		display: none;
-	}
 }
 #email {
 	background: url('/catalog/view/theme/default/image/mail.png') no-repeat;
