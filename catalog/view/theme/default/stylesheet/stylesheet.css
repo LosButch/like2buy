@@ -145,7 +145,7 @@ div.required .control-label:before {
 }
 #search input:nth-child(2){
 	float: left;
-	width: 80%;
+	width: 95%;
 }
 #search .input-lg {
 	height: 30px;
@@ -164,7 +164,7 @@ div.required .control-label:before {
 	box-shadow: none;
 
 	margin-top: 2px;
-    margin-right: 5px;
+	margin-right: 5px;
 }
 
 #search-button {
@@ -233,10 +233,20 @@ div.required .control-label:before {
 	    float: left;
 	    padding: 0;
 	    padding-right: 5px;
-	}	
+	}
 	#top-top-cart {
-	    width: 64% !important;
+	    width: 10%;
 	    padding: 0px;
+	}
+	#search .btn-lg {
+		display: none;
+	}
+	#search input:nth-child(2){
+		margin-left: 10px;
+	}
+	#search {
+		float: left;
+		width: 80%
 	}
 }
 #cart .dropdown-menu table {
@@ -256,12 +266,13 @@ div.required .control-label:before {
 }
 #cart .dropdown-menu li p {
 	margin: 20px 0;
+	color: black;
 }
 /* menu */
 #menu {
 	background: #231f20;
 	color: #fff;
-	min-height: 40px;
+	min-height: 0px;
 	z-index: 3;
 
 	-moz-border-radius: 10px;
@@ -294,9 +305,9 @@ div.required .control-label:before {
 	color: #f2c531;
 
 	-moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -khtml-border-radius: 10px;
-    border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
 }
 #menu .dropdown-menu {
 	padding-bottom: 0;
@@ -322,7 +333,7 @@ div.required .control-label:before {
 #menu .dropdown-inner a {
 	min-width: 160px;
 	display: block;
-	padding: 3px 20px;
+	padding: 3px 35px;
 	clear: both;
 	line-height: 20px;
 	color: #fff;
@@ -409,7 +420,6 @@ div.required .control-label:before {
 	#menu div.dropdown-menu {
 		margin-left: 0 !important;
 		padding-bottom: 10px;
-		background-color: #b3ad01;
 		color: #fff;
 	}
 	#menu .dropdown-inner {
@@ -999,6 +1009,33 @@ h2.price {
 	background-color: #f2c531;
 	height: 182px;
 }
+@media (max-width: 478px) {
+	#home-header{
+		padding-top: 40px;
+		min-height: inherit;
+		height: inherit;
+	}
+	#menu {
+		border: 0;
+	}
+	#menu .seperator {
+		height: 40px;
+	}
+	.menu-icon{
+		background-repeat: no-repeat;
+		background-position: 15px;
+		padding-left: 30px;
+	}
+	.menu-register {
+		background-image: url(/catalog/view/theme/default/image/menu-opret.png);
+	}
+	.menu-login {
+		background-image: url(/catalog/view/theme/default/image/menu-login.png);
+	}
+	.menu-hjaelp {
+		background-image: url(/catalog/view/theme/default/image/menu-hjaelp.png);
+	}
+}
 
 #background{
 	max-width: 1366px;
@@ -1008,16 +1045,20 @@ h2.price {
 }
 
 #menu-category ul{
-	margin: auto;
+	padding: 0px;
+	margin: 0px;
+	border: 0;
 
 }
-#menu-category ul li{
-	background: url(/catalog/view/theme/default/image/menu-sep.png);
-    background-repeat: no-repeat;
+@media (min-width: 478px) {
+	#menu-category ul li{
+		background: url(/catalog/view/theme/default/image/menu-sep.png);
+		background-repeat: no-repeat;
+	}
 }
-#menu-category ul li:first-child, #menu-category ul li:nth-child(2){
+#menu-category ul li:first-child {
 	background: none;
-    background-repeat: no-repeat;
+	background-repeat: no-repeat;
 }
 
 #menu-nav{
@@ -1550,6 +1591,48 @@ a:hover{
 	width: 50px;
 	border-right: 1px solid #aaaaaa;
 	border-radius: 0;
+	margin-left: -15px;
+}
+.search-menu {
+	float: left;
+	padding: 0;
+	margin: 0;
+	height: 40px;
+	width: 50px;
+	border-right: 1px solid #aaaaaa;
+	border-radius: 0;
+	background-image: url('/catalog/view/theme/default/image/sog_logo.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.dropdown-top-search {
+	position:fixed;
+	background-color: black;
+	overflow: hidden;
+	z-index: 1;
+	margin-left: 35px;
+	width: 85%;
+}
+.close-search-menu {
+	width: 40px;
+	padding: 0px;
+	margin: 0px;
+	background-color: transparent;
+	border: none;
+	height: 40px;
+	font-size: 15px;
+	color: white;
+}
+.close-search-menu:focus{
+	border: none;
+}
+.logo-mobile {
+	background-image: url('/image/catalog/logo-webshop-mobile.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+	width: 140px;
+	height: 40px;
 }
 #grey-link{
 	color: #a8a8a8 !important;

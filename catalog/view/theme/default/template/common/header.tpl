@@ -51,6 +51,12 @@
 <div id="top-top-header" class="navbar-header">
 	<div class="container">
 		<button type="button" class="navbar-toggle burger-menu" data-toggle="collapse" data-target=".dropdown-top-menu"><i class="fa fa-bars"></i></button>
+		<button type="button" class="visible-xs navbar-toggle search-menu" data-toggle="collapse" data-target=".dropdown-top-search"></button>
+		<div class="visible-xs logo-mobile"></div>
+		<div class="collapse dropdown-top-search hidden-sm hidden-md hiddden-lg">
+			<?php echo $search; ?>
+			<button type="button" class="close-search-menu" data-toggle="collapse" data-target=".dropdown-top-search">Luk</button>
+		</div>
 		<div class="col-sx-4">
 			<div id="login-btn" class="hidden-xs top-header-link">
 				<a href="<?php echo $register; ?>" id="grey-link">Opret</a>&nbsp;/&nbsp;
@@ -62,7 +68,7 @@
 				   <?php echo $cart; ?>
 			</div>
 			<div class="hidden-xs top-header-link hjaelp">
-				<a href="/faq" >Hj&aelig;lp</a>
+				<a href="/faq" >Hjælp</a>
 			</div>
 			<div class="hidden-xs top-header-link email">
 				<a href="mailto:kontakt@like2buy.dk">kontakt@like2buy.dk</a>
@@ -75,7 +81,7 @@
 </div>
 
 <header id="home-header">
-  <div class="container">
+  <div class="container top-wide-with-logo hidden-xs">
     <div class="row">
       <div class="col-sm-3">
         <div id="logo">
@@ -115,8 +121,7 @@
       <ul class="nav navbar-nav dropdown-top-menu col-sm-9 collapse navbar-collapse">
         <?php foreach ($categories as $category) { ?>
         <?php if ($category['children']) { ?>
-        
-        <li class="dropdown"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" ><?php echo $category['name']; ?></a> 
+        <li class="dropdown top-category-menu"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" data-toggle="dropdown"><?php echo $category['name']; ?></a>
           <div class="dropdown-menu">
             <div class="dropdown-inner">
               <?php foreach (array_chunk($category['children'], ceil(count($category['children']) / $category['column'])) as $children) { ?>
@@ -126,35 +131,32 @@
                 <?php } ?>
               </ul>
 
-              
               <?php } ?>
             </div>
 
-            <a href="<?php echo $category['href']; ?>" class="see-all"><?php echo $text_all; ?> </a> </div>
-            
+            <a href="<?php echo $category['href']; ?>" class="see-all hidden-xs"><?php echo $text_all; ?> </a> </div>
         </li>
         <?php } else { ?>
         <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>  
         <?php } ?>
         <?php } ?>
-	<li class="visible-xs">
+	<div class="seperator"></div>
+	<li class="visible-xs menu-icon menu-register">
 		<a href="<?php echo $register; ?>">Opret</a>
 	</li>
-	<li class="visible-xs">
+	<li class="visible-xs menu-icon menu-login">
 		<a href="<?php echo $login; ?>">Log Ind</a>
 	</li>
-	<li class="visible-xs">
+	<li class="visible-xs menu-icon menu-hjaelp">
 		<a href="/faq">Hjælp</a>
 	</li>
       </ul>
-      <div class="col-sm-3 float-right">
+      <div class="col-sm-3 float-right hidden-xs">
           <?php echo $search; ?>
       </div>
     </div>
   </nav>
 
-  
 </div>
 </header>
-
 <?php } ?>
