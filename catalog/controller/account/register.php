@@ -216,12 +216,6 @@ class ControllerAccountRegister extends Controller {
 			$data['telephone'] = '';
 		}
 
-		if (isset($this->request->post['fax'])) {
-			$data['fax'] = $this->request->post['fax'];
-		} else {
-			$data['fax'] = '';
-		}
-
 		if (isset($this->request->post['company'])) {
 			$data['company'] = $this->request->post['company'];
 		} else {
