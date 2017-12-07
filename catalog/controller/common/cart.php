@@ -93,7 +93,7 @@ class ControllerCommonCart extends Controller {
 			// Display prices
 			if ($this->customer->isLogged() || !$this->config->get('config_customer_price')) {
 				$unit_price = $this->tax->calculate($product['price'], $product['tax_class_id'], $this->config->get('config_tax'));
-				
+
 				$price = $this->currency->format($unit_price, $this->session->data['currency']);
 				$total = $this->currency->format($unit_price * $product['quantity'], $this->session->data['currency']);
 			} else {
@@ -114,6 +114,8 @@ class ControllerCommonCart extends Controller {
 				'href'      => $this->url->link('product/product', 'product_id=' . $product['product_id'])
 			);
 		}
+
+		$data['product_count'] = $this->cart->countProducts();
 
 		// Gift Voucher
 		$data['vouchers'] = array();

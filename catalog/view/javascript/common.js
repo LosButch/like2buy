@@ -164,7 +164,8 @@ var cart = {
 						$('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
 					}, 100);
 
-					//$('html, body').animate({ scrollTop: 0 }, 'slow');
+					$('#top-cart-product-count').html(json['product-count']);
+					$('#top-cart-price-total').html(json['price-total']);
 
 					$('#cart > ul').load('index.php?route=common/cart/info ul li');
 					$('#cart').addClass('open');
