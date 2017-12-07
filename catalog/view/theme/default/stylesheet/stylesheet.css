@@ -145,7 +145,7 @@ div.required .control-label:before {
 }
 #search input:nth-child(2){
 	float: left;
-	width: 95%;
+	width: 85%;
 }
 #search .input-lg {
 	height: 30px;
@@ -199,6 +199,7 @@ div.required .control-label:before {
 	background: #eee;
 	z-index: 1001;
 	min-width: 125px;
+	color: black;
 }
 #cart div a{
 	color: #666 !important;
@@ -1666,7 +1667,7 @@ a:hover{
 .header-box img{
 	float:left;
 }
-#top-top-cart .top-header-link a {
+#top-top-cart .top-header-link>a {
 	color: white;
 }
 #top-top-cart .top-header-link:hover a {
@@ -1711,15 +1712,29 @@ a:hover{
 }
 .indkoebsvogn {
 	background: url('/catalog/view/theme/default/image/kurv.png') no-repeat;
-	background-position: left;
+	background-position: 10px 7px;
 	color: white;
+	padding: 0 10px 0 45px;
 
 }
 .indkoebsvogn:hover {
 	background: url('/catalog/view/theme/default/image/kurv_gul.png') no-repeat;
 	background-position: left;
+	background-position: left 7px;
 	cursor: pointer;
 	color:#f2c531;
+}
+.indkoebsvogn.added-to-cart {
+	animation: added-to-cart 1s 1;
+}
+@keyframes added-to-cart {
+	0% {
+		background-color: #231f20;
+	}
+	100% {
+		background-color: #f2c531;
+	}
+
 }
 #cart:hover #cart-text{
 	color:#f2c531;
