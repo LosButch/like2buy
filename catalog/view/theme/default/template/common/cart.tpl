@@ -1,7 +1,7 @@
 <div id="cart" class="btn-group btn-block">
   <div class="cart-inner" data-toggle="dropdown" data-loading-text="<?php echo $text_loading; ?>">
 	<!-- <img src="/catalog/view/theme/default/image/kurv.png" alt="Indkøbskurv" /> -->
-	<span id="cart-text">Indkøbsvogn</span>
+	<span id="cart-text"><span id="top-cart-product-count"><?echo($product_count);?></span> varer<br /><span id="top-cart-price-total"><?echo($totals[0]['text']);?></span></span>
 	<!-- <span id="cart-total"><?php echo $text_items; ?></span> -->
   </div>
   <ul class="dropdown-menu pull-right">
