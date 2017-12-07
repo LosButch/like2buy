@@ -236,7 +236,7 @@ div.required .control-label:before {
 	    padding-right: 5px;
 	}
 	#top-top-cart {
-	    width: 10%;
+	    width: 125px;
 	    padding: 0px;
 	}
 	#search .btn-lg {
@@ -1719,8 +1719,7 @@ a:hover{
 }
 .indkoebsvogn:hover {
 	background: url('/catalog/view/theme/default/image/kurv_gul.png') no-repeat;
-	background-position: left;
-	background-position: left 7px;
+	background-position: 10px 7px;
 	cursor: pointer;
 	color:#f2c531;
 }
