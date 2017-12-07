@@ -531,7 +531,7 @@ class ControllerSaleOrder extends Controller {
 			$data['lastname'] = $order_info['lastname'];
 			$data['email'] = $order_info['email'];
 			$data['telephone'] = $order_info['telephone'];
-			$data['fax'] = $order_info['fax'];
+			$data['fax'] = '';
 			$data['account_custom_field'] = $order_info['custom_field'];
 
 			$this->load->model('customer/customer');
