@@ -169,6 +169,10 @@ var cart = {
 
 					$('#cart > ul').load('index.php?route=common/cart/info ul li');
 					$('#cart').addClass('open');
+					$('.indkoebsvogn').addClass('added-to-cart');
+					setTimeout(function () {
+						$('.indkoebsvogn').removeClass('added-to-cart');
+					}, 1000);
 				}
 			},
 			error: function(xhr, ajaxOptions, thrownError) {
